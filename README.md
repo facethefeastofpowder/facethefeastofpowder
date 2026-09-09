@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="720" height="404" alt="23_GNA" src="https://github.com/user-attachments/assets/66519e51-da7c-4f83-a68c-08f14773a24e" />
+hi
 
 <!--
 **facethefeastofpowder/facethefeastofpowder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
